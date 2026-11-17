@@ -26,8 +26,7 @@ Este projeto recebe a mensagem original do cliente e utiliza Inteligência Artif
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Tsyuuna/triador-chamados-ia.git](https://github.com/seu-usuario/triador-chamados-ia.git)
-   cd triador-chamados-ia
+git clone https://github.com/Tsyuuna/triador-chamados-ia.git
    ```
 
 2. **Instale as dependências:**
