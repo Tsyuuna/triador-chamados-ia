@@ -26,8 +26,8 @@ Este projeto recebe a mensagem original do cliente e utiliza Inteligência Artif
 
 1. **Clone o repositório:**
    ```bash
-
- git clone https://github.com/Tsyuuna/triador-chamados-ia.git
+   git clone https://github.com/Tsyuuna/triador-chamados-ia.git
+   cd triador-chamados-ia
    ```
 
 2. **Instale as dependências:**
@@ -45,14 +45,3 @@ Este projeto recebe a mensagem original do cliente e utiliza Inteligência Artif
    ```bash
    python triagem.py
    ```
-
-## Exemplo de Saída
-
-```json
-{
-  "categoria": "Acesso",
-  "prioridade": "Alta",
-  "resumo": "Usuário não consegue acessar o sistema após a compra da licença, apresentando erro de permissão.",
-  "resposta_sugerida": "Olá! Lamentamos o inconveniente. Verificamos seu pedido #4829 e nossa equipe técnica já está priorizando a liberação do seu acesso para que sua equipe possa iniciar as operações às 14h. Entraremos em contato em breve com a confirmação."
-}
-```
